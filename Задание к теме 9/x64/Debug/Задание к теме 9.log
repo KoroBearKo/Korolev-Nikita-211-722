@@ -1,0 +1,4 @@
+﻿  Задание к теме 9.cpp
+C:\Users\kibyh\Documents\GitHub\Korolev-Nikita-211-722\Задание к теме 9\Задание к теме 9.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kibyh\Documents\GitHub\Korolev-Nikita-211-722\Задание к теме 9\Задание к теме 9.cpp(43,33): warning C4101: Area: неиспользованная локальная переменная
+  Задание к теме 9.vcxproj -> C:\Users\kibyh\Documents\GitHub\Korolev-Nikita-211-722\Задание к теме 9\x64\Debug\Задание к теме 9.exe
