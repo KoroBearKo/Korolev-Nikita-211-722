@@ -1,0 +1,6 @@
+﻿  Задание к теме 15.cpp
+C:\Users\kibyh\Documents\GitHub\Korolev-Nikita-211-722\Задание к теме 15\Задание к теме 15.cpp(23,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\kibyh\Documents\GitHub\Korolev-Nikita-211-722\Задание к теме 15\Задание к теме 15.cpp(38,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\kibyh\Documents\GitHub\Korolev-Nikita-211-722\Задание к теме 15\Задание к теме 15.cpp(32): warning C4715: Quarter: значение возвращается не при всех путях выполнения
+C:\Users\kibyh\Documents\GitHub\Korolev-Nikita-211-722\Задание к теме 15\Задание к теме 15.cpp(19): warning C4715: Sign: значение возвращается не при всех путях выполнения
+  Задание к теме 15.vcxproj -> C:\Users\kibyh\Documents\GitHub\Korolev-Nikita-211-722\Задание к теме 15\x64\Debug\Задание к теме 15.exe
